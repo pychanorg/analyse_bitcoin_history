@@ -1,0 +1,11 @@
+# python
+requests
+tqdm
+arrow
+
+# data science
+jupyterlab
+pandas
+numpy
+matplotlib
+scipy
